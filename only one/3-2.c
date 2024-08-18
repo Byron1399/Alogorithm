@@ -70,6 +70,7 @@ int main()
         m=x;
        }
        else{
+        
         m->data=arr[i];
         m->next=NULL;
        }
