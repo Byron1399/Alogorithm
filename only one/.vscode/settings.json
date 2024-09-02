@@ -60,6 +60,7 @@
   "files.associations": {
     "3.C": "cpp",
     "2.C": "cpp",
-    "cmath": "c"
+    "cmath": "c",
+    "string.h": "c"
   }
 }
