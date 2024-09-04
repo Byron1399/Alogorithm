@@ -35,7 +35,7 @@
     "/w14928"
   ],
   "C_Cpp_Runner.enableWarnings": true,
-  "C_Cpp_Runner.warningsAsError": false,
+  "C_Cpp_Runner.warningsAsError": true,
   "C_Cpp_Runner.compilerArgs": [],
   "C_Cpp_Runner.linkerArgs": [],
   "C_Cpp_Runner.includePaths": [],
@@ -61,6 +61,10 @@
     "3.C": "cpp",
     "2.C": "cpp",
     "cmath": "c",
-    "string.h": "c"
-  }
+    "string.h": "c",
+    "stdio.h": "c",
+    "stdlib.h": "c",
+    "stdbool.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
 }
